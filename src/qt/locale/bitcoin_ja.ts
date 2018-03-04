@@ -1073,7 +1073,7 @@
     </message>
     <message>
         <source>Expert</source>
-        <translation>エクスポート</translation>
+        <translation>上級者向け</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1449,11 +1449,11 @@
     </message>
     <message>
         <source>%1 h</source>
-        <translation>%1 h</translation>
+        <translation>%1時間</translation>
     </message>
     <message>
         <source>%1 m</source>
-        <translation>%1 m</translation>
+        <translation>%1分</translation>
     </message>
     <message>
         <source>%1 s</source>
